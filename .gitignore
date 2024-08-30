@@ -1,0 +1,2 @@
+# gitignoring for now to reduce security risks (recon?). Will reconsider exposing the file once deemed to be safe enough
+inventory.ini
